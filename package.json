@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaisah77/alaisahdocker.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "alaisah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaisah77/alaisahdocker/issues"
+  },
+  "homepage": "https://github.com/Alaisah77/alaisahdocker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
